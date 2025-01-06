@@ -35,12 +35,9 @@ li {
   padding: 0;
   list-style: none;
 }
-a {
-  display: block;
-  text-decoration: none;
+button {
   width: 100%;
   color: rgb(31, 30, 30);
-  text-align: center;
 }
 li {
   width: 85px;
